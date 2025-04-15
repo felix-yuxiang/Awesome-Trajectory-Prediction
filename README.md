@@ -28,6 +28,7 @@ Please feel free to [pull requests](https://github.com/xuehaouwa/Awesome-Traject
 
 #### Trajectory Prediction Related
 
+- MoFlow: One-Step Flow Matching for Human Trajectory Forecasting via Implicit Maximizing Likelihood Estimation based Distillation, CVPR 2025, [Paper](https://arxiv.org/abs/2503.09950), [Code](https://github.com/DSL-Lab/MoFlow), [Website](https://moflow-imle.github.io/)
 - How many Observations are Enough? Knowledge Distillation for Trajectory Forecasting, CVPR 2022, [Paper](https://arxiv.org/abs/2203.04781)
 - Social-Implicit: Rethinking Trajectory Prediction Evaluation and The Effectiveness of Implicit Maximum Likelihood Estimation, ECCV 2022, [Paper](<https://arxiv.org/abs/2203.03057>), [Code](<https://github.com/abduallahmohamed/Social-Implicit>)
 - S-attack library: A library for evaluating trajectory prediction models [Website](<https://s-attack.github.io/>)
